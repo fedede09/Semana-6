@@ -5,28 +5,28 @@
             "nombre": "Federico",
             "apellido": "de la Carrera",
             "edad": "21",
-            "localidad": "Colonia",
+            "localidad": "1",
             "grupo": "205"
         },
         {
             "nombre": "Prinzo",
             "apellido": "Rios",
             "edad": "26",
-            "localidad": "Mercedes",
+            "localidad": "2",
             "grupo": "205"
         },
         {
             "nombre": "Mariana",
             "apellido": "Yánez",
             "edad": "26",
-            "localidad": "Montevideo",
+            "localidad": "3",
             "grupo": "205"
         },
         {
             "nombre": "Exequiel",
             "apellido": "Rodriguez",
             "edad": "19",
-            "localidad": "Florida",
+            "localidad": "4",
             "grupo": "205"
         }
         
